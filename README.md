@@ -23,7 +23,7 @@
 
 ### 🤗 Project Structure
 
-- `main.py`: Entry point for the demo script.
+- `demo.py`: Entry point for the demo script.
 - `nn.py`: Contains the neural network definitions and model loading functions.
 - `util.py`: Utility functions for image and video processing.
 - `nets/`: Directory containing various model definitions and configurations.
@@ -47,10 +47,10 @@
 
 Experience the magic of animation with our easy-to-use demo:
 
-1. Configure your video path in `main.py` for visualizing the demo.
+1. Configure your video path in `demo.py` for visualizing the demo.
 2. Run the demo script:
     ```bash
-    python main.py --input-image ./demo/inputs/images/10.jpg --input-video ./demo/inputs/videos/9.mp4 --output-dir ./demo/results
+    python demo.py --input-image ./demo/inputs/images/10.jpg --input-video ./demo/inputs/videos/9.mp4 --output-dir ./demo/results
     ```
 
 With **just one click**, you can transform any portrait into a captivating animated version, perfect for showcasing on social media, websites, or presentations.
