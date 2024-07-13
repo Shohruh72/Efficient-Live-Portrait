@@ -34,7 +34,7 @@
 1. Download pre-trained model weights and place them in the `weights` directory. Ensure the directory structure is as follows:
     ```
     live-portraits-ai/
-    ├── weights/
+    ├── [weights](https://github.com/Shohruh72/LivePortrait/releases/download/v.1.0.0/weights.zip)/
     │   ├── afx.pth
     │   ├── mx.pth
     │   ├── wn.pth
