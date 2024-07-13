@@ -39,7 +39,8 @@
     │   ├── mx.pth
     │   ├── wn.pth
     │   ├── spad.pth
-    │   └── stitch.pth
+    │   ├── stitch.pth
+    │   └── insightface
     ```
 
 ### 🚀🚀🚀 Usage: Running the Demo
