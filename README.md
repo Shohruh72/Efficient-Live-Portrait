@@ -1,13 +1,13 @@
 # Live Portraits AI
 
 <p align="center">  
-  <h1 align="center">LivePortrait: Bring portraits to life!</h1>
+  <h1 align="center"> 📹 Video Demo: LivePortrait: Bring portraits to life!</h1>
   <img src="demo/results/demo1.gif">
   <img src="demo/results/demo2.gif">
 </p>
 
 <p align="center">  
-  <h2 align="center"> ## 📹 Video Demo: Efficient Portrait Animation with Stitching and Retargeting Control</h2>
+  <h2 align="center"> ## Efficient Portrait Animation with Stitching and Retargeting Control</h2>
 </p>
 
 ### Transform static portraits into lifelike animations with ** just one click! 🔥🔥🔥** 
